@@ -16,7 +16,14 @@ This is a sample project using [FastAPI](https://fastapi.tiangolo.com/), a moder
 
 
 ### Project Structure
-
-FastAPI-Sample-Project/ │── main.py # Execution file is here │── Models/ │ ├── models.py # All Pydantic models are located here │── api/ │ ├── endpoints/ │ │ ├── main_router.py # All API routes are located here │── requirements.txt # Dependencies list │── README.md # Documentation
-
-
+```bash
+FastAPI-Sample-Project/
+│── main.py #execution file is here          
+│── Models/
+│   ├── models.py # All pydantic models are located here       
+│── api/
+│   ├── endpoints/
+│   │   ├── main_router.py # All API routes are located here
+│── requirements.txt  # Dependencies list
+│── README.md         # Documentation
+```
