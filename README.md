@@ -29,7 +29,7 @@ FastAPI-Sample-Project/
 
 ```
 
-###### How to get started
+## How to get started
 
 ## 1. Create and activate a Python virtual environment
 ```sh
