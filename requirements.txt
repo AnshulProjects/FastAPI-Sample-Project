@@ -1,0 +1,4 @@
+fastapi # All other libraries associated with FastAPI
+uvicorn[standard] # For running the FastAPI application
+fastapi[standard] # For fastapi command
+typing # For Optional Data Types
