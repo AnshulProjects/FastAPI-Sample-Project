@@ -14,3 +14,9 @@ This is a sample project using [FastAPI](https://fastapi.tiangolo.com/), a moder
 - Python 3.7+
 - pip package manager
 
+
+### Project Structure
+
+FastAPI-Sample-Project/ │── main.py # Execution file is here │── Models/ │ ├── models.py # All Pydantic models are located here │── api/ │ ├── endpoints/ │ │ ├── main_router.py # All API routes are located here │── requirements.txt # Dependencies list │── README.md # Documentation
+
+
