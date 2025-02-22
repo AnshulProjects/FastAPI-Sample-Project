@@ -19,7 +19,7 @@ This is a sample project using [FastAPI](https://fastapi.tiangolo.com/), a moder
 ```bash
 FastAPI-Sample-Project/
 │── main.py #execution file is here          
-│── Models/
+│── models/
 │   ├── models.py # All pydantic models are located here       
 │── api/
 │   ├── endpoints/

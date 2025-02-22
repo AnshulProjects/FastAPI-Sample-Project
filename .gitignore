@@ -4,6 +4,7 @@ __pycache__/
 localenv/
 # C extensions
 *.so
+.DS_Store
 
 # Distribution / packaging
 bin/
